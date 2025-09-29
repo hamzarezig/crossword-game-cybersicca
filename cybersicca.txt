@@ -1,0 +1,11 @@
+
+    l o c k         To secure something and prevent access without permission.
+    k e y           Used to encrypt or decrypt information.
+        b u g       A mistake or error in a computer program.
+        e m a i l   Electronic messages sent over the internet.
+  u s e r           Someone who accesses a computer system or network.
+    p a s s           A secret word used to access accounts.
+  l o g i n         The process of entering your username and password to access a system.
+      a c c e s s   Permission to enter or use a system or information.
+d e v i c e         An electronic tool used to access networks
+  d a t a           Information stored or processed by computers.
